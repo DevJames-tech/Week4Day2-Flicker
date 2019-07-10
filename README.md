@@ -1,10 +1,17 @@
 # Week4Day2-Flicker
 
 What is the difference in RxJava v1 and v2?
+
+
+
 ⦁	Created Reactive Streams for RxJava in v2.
+
 ⦁	Changed implementation string when adding it to gradle.module
+
 ⦁	Flowable is the new Observable. Succinctly - it’s a backpressure-enabled base reactive class.
+
 ⦁	(Flowable = Observable + backpressure handling)
+
 ⦁	has special subscribers called Observer's
 
 2.  What is backpressure?
