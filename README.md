@@ -2,7 +2,6 @@
 
 What is the difference in RxJava v1 and v2?
 
-Screen Shot 2019-07-09 at 11.50.34 PM.png
 
 ⦁	Created Reactive Streams for RxJava in v2.
 
